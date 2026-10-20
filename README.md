@@ -12,6 +12,6 @@ Interactive dashboard with trend lines, KPIs, classification charts, and world m
 
 Documentation for data lineage, definitions, and reporting requirements
 Tech Stack
-Python • SQL • Power BI/Tableau • VS Code
+Python • SQL • Power BI • VS Code
 
 BI workflow: raw data → engineered model → actionable insights.
