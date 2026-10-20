@@ -14,5 +14,4 @@ Documentation for data lineage, definitions, and reporting requirements
 Tech Stack
 Python • SQL • Power BI/Tableau • VS Code
 
-Purpose
-Showcase a complete BI workflow: raw data → engineered model → actionable insights.
+BI workflow: raw data → engineered model → actionable insights.
